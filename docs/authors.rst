@@ -33,4 +33,5 @@ Contributors
 * Adrien Cerdan <cerdan.adrien@gmail.com>
 
 @ Université de Lorraine
-* Joel Montalvo-Acosta <montalvo161@gmail.com>
+
+* Joel Montalvo-Acosta  <montalvo161@gmail.com>
