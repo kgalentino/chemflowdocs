@@ -31,3 +31,6 @@ Contributors
 * Gilberto Pereira  <gilberto.pereiraportugal@gmail.com>
 * Marion Sisquellas <Sisquellas.marion@gmail.com>
 * Adrien Cerdan <cerdan.adrien@gmail.com>
+
+@ Université de Lorraine
+* Joel Montalvo-Acosta <montalvo161@gmail.com>
