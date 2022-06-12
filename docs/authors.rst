@@ -16,6 +16,10 @@ Development Lead
 
 * Diego Enry Barreto Gomes <dgomes@pq.cnpq.br>
 
+@ Université de Strasbourg
+
+* Katia Galentino <galentinokatia@gmail.com> 
+
 @ Université de Nice
 
 * Cedric Bouysset <bouysset.cedric@gmail.com>
@@ -28,6 +32,7 @@ Contributors
 
 @ Université de Strasbourg
 
+* Luca Monari <monari.l99@gmail.com>
 * Gilberto Pereira  <gilberto.pereiraportugal@gmail.com>
 * Marion Sisquellas <Sisquellas.marion@gmail.com>
 * Adrien Cerdan <cerdan.adrien@gmail.com>
